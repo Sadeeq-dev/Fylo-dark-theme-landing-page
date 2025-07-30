@@ -36,8 +36,7 @@ nav {
 
 nav ul {
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+    justify-content: flex-end;
     list-style: none;
     padding-top: 15px;
 }
@@ -45,7 +44,11 @@ nav ul {
 nav a {
     color: white;
     text-decoration: none;
-    padding: 5px 9px;
+    padding: 5px 8px;
+}
+
+nav li:first-child {
+    margin-right: auto;
 }
 
 nav #img {
