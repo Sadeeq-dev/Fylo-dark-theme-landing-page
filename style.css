@@ -597,12 +597,13 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    padding: 15px 20px;
-
+    padding: 25px 20px;
+   
 }
 
 
 .container h1 {
+    padding-top: 50px;
     margin-bottom: 30px;
 
 }
@@ -805,12 +806,11 @@ main {
     background-size: cover;
     text-align: center;
     padding: 15px 20px;
-    
 }
 
 
 .container h1 {
-    padding-top: 30px;
+    padding-top: 50px;
     margin-bottom: 30px;
 
 }
@@ -1003,11 +1003,11 @@ main {
     background-size: cover;
     text-align: center;
     padding: 15px 20px;
-    margin-top: -10px;
 }
 
 
 .container h1 {
+    padding-top: 50px;
     margin-bottom: 30px;
 
 }
